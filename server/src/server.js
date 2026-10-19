@@ -13,9 +13,11 @@ async function startServer() {
     const db = await connectDB();
     console.log('[Server] MongoDB connected successfully.');
 
-    // Initialize default badges and indexes
+    // Initialize default badges, indexes, and sample data if database is empty
     await createBadgeIndexes(db);
     await seedBadges(db);
+    const { autoSeed } = require('./utils/autoSeed');
+    await autoSeed(db);
 
     // Start Express server
     const server = app.listen(config.port, () => {
