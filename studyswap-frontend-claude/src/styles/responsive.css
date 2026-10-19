@@ -1,0 +1,17 @@
+@media (max-width: 960px) {
+  .hero-grid, .detail-grid { grid-template-columns: 1fr; }
+  .shell { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+  .mobilenav { display: flex; }
+  .navlinks.desktop { display: none; }
+  .appheader { padding: .6rem 1rem; }
+  .content { padding: 1.25rem 1rem 6rem; }
+}
+@media (max-width: 560px) {
+  .form-2 { grid-template-columns: 1fr; }
+  .hero { padding: 3rem 0 2.5rem; }
+  .section { padding: 3rem 0; }
+  .userbtn .uname { display: none; }
+  .userbtn { padding: 4px; }
+}
+@media (min-width: 961px) { .only-mobile { display: none !important; } }

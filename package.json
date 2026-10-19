@@ -1,0 +1,19 @@
+{
+  "name": "studyswap",
+  "version": "1.0.0",
+  "description": "StudySwap - Student Academic Resource Sharing & Discovery Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd studyswap-frontend-claude && npm install && cd ../server && npm install",
+    "dev": "concurrently --kill-others-on-fail -n \"SERVER,CLIENT\" -c \"red,cyan\" \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd studyswap-frontend-claude && npm run dev",
+    "build": "cd studyswap-frontend-claude && npm run build",
+    "test": "cd server && npm test",
+    "seed": "cd server && npm run seed",
+    "create-admin": "cd server && npm run create-admin"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
