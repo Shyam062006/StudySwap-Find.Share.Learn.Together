@@ -1,6 +1,11 @@
 # StudySwap — Frontend
 
-React + React Router + plain CSS (Vite). Talks to a separate Express/MongoDB API. No mock backend is included.
+[![Live Website](https://img.shields.io/badge/Live_Website-Visit_StudySwap-EF233C?style=for-the-badge&logo=vercel&logoColor=white)](https://study-swap-find-share-learn-togethe.vercel.app)
+
+* 🚀 **Live Demo**: **[https://study-swap-find-share-learn-togethe.vercel.app](https://study-swap-find-share-learn-togethe.vercel.app)**
+* ⚙️ **Backend API**: **[https://studyswap-api.onrender.com/api/health](https://studyswap-api.onrender.com/api/health)**
+
+React + React Router + plain CSS (Vite). Talks to the Express/MongoDB API deployed on Render.
 
 ## Setup
 ```bash

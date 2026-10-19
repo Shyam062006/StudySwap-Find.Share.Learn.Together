@@ -2,6 +2,26 @@
 
 > **“Find. Share. Learn. Together.”**
 
+[![Live Demo](https://img.shields.io/badge/Live_Website-Visit_StudySwap-EF233C?style=for-the-badge&logo=vercel&logoColor=white)](https://study-swap-find-share-learn-togethe.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://studyswap-api.onrender.com/api/health)
+[![Database](https://img.shields.io/badge/Database-MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://cloud.mongodb.com)
+
+---
+
+### 🌐 Live Application Links
+* 🚀 **Live Web Application**: **[https://study-swap-find-share-learn-togethe.vercel.app](https://study-swap-find-share-learn-togethe.vercel.app)**
+* ⚙️ **Production REST API**: **[https://studyswap-api.onrender.com/api/health](https://studyswap-api.onrender.com/api/health)**
+
+### 👨‍🎓 Instant Demo Accounts (CSE Semester 5)
+| Student | Email | Password | Branch & Semester |
+| :--- | :--- | :--- | :--- |
+| **Praveen** | `praveen@studyswap.dev` | `Student123!` | CSE • Semester 5 • National Engineering College |
+| **Neelish** | `neelish@studyswap.dev` | `Student123!` | CSE • Semester 5 • National Engineering College |
+
+*(You can also click the **1-Click Sign In** buttons directly on the Login page to sign in with either student instantly.)*
+
+---
+
 A full-stack student academic resource sharing and discovery platform built as a Full Stack Development (FSD) Capstone Project.
 
 StudySwap solves the problem of academic resources being scattered across chats, personal drives, and random websites by centralizing study materials into **ONE unified Material Hub**.
