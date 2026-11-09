@@ -11,6 +11,20 @@
 ### 🌐 Live Application Links
 * 🚀 **Live Web Application**: **[https://study-swap-find-share-learn-togethe.vercel.app](https://study-swap-find-share-learn-togethe.vercel.app)**
 * ⚙️ **Production REST API**: **[https://studyswap-api.onrender.com/api/health](https://studyswap-api.onrender.com/api/health)**
+* 📁 **GitHub Repository**: **[https://github.com/Shyam062006/StudySwap-Find.Share.Learn.Together](https://github.com/Shyam062006/StudySwap-Find.Share.Learn.Together)**
+
+---
+
+### 👥 Project Team Members (Department of CSE)
+
+| S.No | Name | Roll Number | Role | GitHub Profile |
+|:---:|:---|:---:|:---|:---|
+| 1 | **Shyam Sundar Penti** | `24501A05H9` | Full-Stack Lead & Architect | [@Shyam062006](https://github.com/Shyam062006) |
+| 2 | **Neelish Sri Charan** | `24501A05H8` | Frontend Developer & UI/UX | [@neelsihsricharan](https://github.com/neelsihsricharan) |
+| 3 | **Peddasingu Praveen Kumar** | `24501A05H5` | Backend & Database Engineer | [@Peddasing-Praveen-kumar](https://github.com/Peddasing-Praveen-kumar) |
+| 4 | **Sai Subhash** | `24501A05I2` | Testing & Documentation | [@SaiSubhash-07](https://github.com/SaiSubhash-07) |
+
+---
 
 ### 👨‍🎓 Instant Demo Accounts (CSE Semester 5)
 | Student | Email | Password | Branch & Semester |
